@@ -30,11 +30,11 @@ Monday 11.00-11.45 Y11-J-05
 | 23.10.2017  | Mark  | limma 2  | |
 | 30.10.2017  | Hubert  | RNA-seq quantification   |  |
 | 06.11.2017  | Mark  | edgeR+friends 1 |  |
-| 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  |  |
+| 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X |
 | 20.11.2017  | Mark  | edgeR+friends 2  |  |
 | 27.11.2017  | Hubert  | classification  |  |
 | 04.12.2017  | Mark  | single-cell  |  |
-| 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  |  |
+| 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  | X |
 | 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  |  |
 
 
