@@ -9,14 +9,13 @@ Monday 11.00-11.45 Y11-J-05
 
 ## Lecturers
 
+[Gosia Nowicka](https://www.researchgate.net/profile/Malgorzata_Nowicka), finished PhD student, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
+
 [Dr. Hubert Rehrauer](http://www.fgcz.ch/the-center/people/rehrauer.html), Group Leader of Genome Informatics at [FGCZ](http://www.fgcz.ch/)  
 
 [Prof. Dr. Mark Robinson](http://www.imls.uzh.ch/research/robinson.html), Associate Professor of Statistical Genomics, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
 
 [Dr. Charlotte Soneson](http://csoneson.github.io/), Postdoctoral Associate, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
-
-[Gosia Nowicka](https://www.researchgate.net/profile/Malgorzata_Nowicka), finished PhD student, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
-
 
 
 ## Schedule
@@ -25,7 +24,7 @@ Monday 11.00-11.45 Y11-J-05
 | --- | --- | --- | --- |
 | 18.09.2017  | Mark  | admin, mol. biology basics, R markdown | |
 | 25.09.2017  | Hubert  | exploratory data analysis | |
-| 02.10.2017  | Mark; Hubert  | interactive technology session  | |
+| 02.10.2017  | Mark + Hubert  | interactive technology session  | |
 | 09.10.2017  | Hubert  | NGS intro; mapping  | |
 | 16.10.2017  | Mark  | limma 1   | |
 | 23.10.2017  | Mark  | limma 2  | |
