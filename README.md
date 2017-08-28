@@ -1,8 +1,8 @@
 # Statistical Analysis of High-Throughput Genomic and Transcriptomic Data 
-Fall/Herbst-semester 2016
+Fall/Herbst-semester 2017
 
 ## Lectures
-Mondays 9.00-9.45, 10.00-10.45 (approx) Y23-G-04
+Mondays 9.00-9.45, 10.00-10.45 (approx) Y11-J-05 (tentative)
 
 ## Exercises
 Monday 11.00-11.45 Y11-J-05 
@@ -47,5 +47,5 @@ Monday 11.00-11.45 Y11-J-05
 
 You can check out the entire set of course materials with the following command:
 ```
-git clone https://github.com/sta426hs2016/material.git
+git clone https://github.com/sta426hs2017/material.git
 ```  
