@@ -44,7 +44,8 @@ Monday 11.00-11.45 Y11-J-05
 
 ## Course material
 
-You can check out the entire set of course materials with the following command:
+Assuming you have git installed, you can check out the entire set of course materials with the following command (from command line):
 ```
 git clone https://github.com/sta426hs2017/material.git
 ```  
+Alternatively, for a ZIP file of the repository, you can click on the (green) 'Clone or download' (top right) and then click 'Download ZIP'.
