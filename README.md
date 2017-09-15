@@ -2,14 +2,14 @@
 Fall/Herbst-semester 2017
 
 ## Lectures
-Mondays 9.00-9.45, 10.00-10.45 (approx) Y11-J-05 (tentative)
+Mondays 9.00-9.45, 10.00-10.45 (approx) Y11-J-05
 
 ## Exercises
-Monday 11.00-11.45 Y11-J-05 
+Monday 11.00-11.45 (approx) Y11-J-05 
 
 ## Lecturers
 
-[Gosia Nowicka](https://www.researchgate.net/profile/Malgorzata_Nowicka), finished PhD student, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
+[Ms. Gosia Nowicka](https://www.researchgate.net/profile/Malgorzata_Nowicka), finished PhD student, [IMLS](http://www.imls.uzh.ch/index.html), UZH  
 
 [Dr. Hubert Rehrauer](http://www.fgcz.ch/the-center/people/rehrauer.html), Group Leader of Genome Informatics at [FGCZ](http://www.fgcz.ch/)  
 
@@ -41,6 +41,8 @@ Monday 11.00-11.45 Y11-J-05
 ## Useful Links
 [Simply Statistics blog](http://simplystatistics.org/archive/)  
 [Getting Genetics Done blog](http://www.gettinggeneticsdone.com/)  
+[Omics Omics blog](http://omicsomics.blogspot.ch/)
+[Staying Current in Bioinformatics & Genomics: 2017 Edition](http://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html)
 
 ## Course material
 
