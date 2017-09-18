@@ -2,10 +2,10 @@
 Fall/Herbst-semester 2017
 
 ## Lectures
-Mondays 9.00-9.45, 10.00-10.45 (approx) Y11-J-05
+Mondays 9.00-9.45 (Y27-H-46), 10.00-10.45 (Y11-J-05)
 
 ## Exercises
-Monday 11.00-11.45 (approx) Y11-J-05 
+Monday 11.00-11.45 (Y11-J-05)
 
 ## Lecturers
 
