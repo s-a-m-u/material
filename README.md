@@ -41,7 +41,7 @@ Monday 11.00-11.45 (approx) Y11-J-05
 ## Useful Links
 [Simply Statistics blog](http://simplystatistics.org/archive/)  
 [Getting Genetics Done blog](http://www.gettinggeneticsdone.com/)  
-[Omics Omics blog](http://omicsomics.blogspot.ch/)
+[Omics Omics blog](http://omicsomics.blogspot.ch/)  
 [Staying Current in Bioinformatics & Genomics: 2017 Edition](http://www.gettinggeneticsdone.com/2017/02/staying-current-in-bioinformatics-genomics-2017.html)
 
 ## Course material
