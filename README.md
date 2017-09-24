@@ -23,9 +23,9 @@ Monday 11.00-11.45 (Y11-J-05)
 | Date  | Lecturer | Topic | JC |
 | --- | --- | --- | --- |
 | 18.09.2017  | Mark  | admin, mol. biology basics, R markdown | |
-| 25.09.2017  | Hubert  | exploratory data analysis | |
+| 25.09.2017  | Hubert  | NGS intro; exploratory data analysis | |
 | 02.10.2017  | Mark + Hubert  | interactive technology session  | |
-| 09.10.2017  | Hubert  | NGS intro; mapping  | |
+| 09.10.2017  | Hubert  | mapping  | |
 | 16.10.2017  | Mark  | limma 1   | |
 | 23.10.2017  | Mark  | limma 2  | |
 | 30.10.2017  | Hubert  | RNA-seq quantification   |  |
