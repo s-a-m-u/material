@@ -1,0 +1,86 @@
+---
+title: "Exercise 2"
+author: "Stephany Orjuela"
+date: "September 25, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+setwd("~/STA426/material/week02-25sep2017/exercise")
+```
+
+## Exploratory Data Analysis
+
+Do an exploratory data analysis of a matrix of expression values. Load the data and display
+
+```{r}
+anno = read.table("SampleAnnotation.txt", as.is=TRUE, sep="\t", quote="",
+                  row.names=1, header=TRUE)
+x = read.table("expressionData.txt", as.is=TRUE, sep="\t", quote="", row.names=1, header=TRUE, check.names = FALSE)
+x = as.matrix(x)
+```
+
+
+### Define samples and colors and phenotype
+```{r}
+colors = rainbow(nrow(anno))
+isNorm = anno$TissueType == "norm"
+samples = rownames(anno)
+isSick = anno$TissueType == "sick"
+isAcute = anno$TissueType == "acute"
+```
+
+
+###Distribution
+```{r}
+dim(x)
+boxplot(log2(x), col = colors)
+```
+
+
+###Density
+```{r}
+limma::plotDensities(x, col = colors)
+```
+
+
+###Normalize
+```{r}
+x.norm = limma::normalizeQuantiles(x)
+boxplot(log2(x.norm), col = colors)
+```
+
+
+###Cluster
+```{r}
+x.var= genefilter::rowVars(x.norm)
+ord = order(x.var, decreasing = T)[1:1000]
+x.red = x.norm[ord,]
+x.clust = hclust(dist(t(x.red)))
+plot(x.clust)
+```
+
+
+###Heatmap raw values (Top 100 most variable genes)
+```{r}
+annot_col <- data.frame(Tissue = anno$TissueType)
+rownames(annot_col) <- samples
+pheatmap::pheatmap(x.red, show_rownames = F, annotation_col = annot_col)
+```
+
+
+###Correlation matrix (Using Top 100 most variable genes)
+```{r}
+x.dist = as.dist((1 - cor(x.red))/2)
+pheatmap::pheatmap(x.dist, annotation_col = annot_col)
+```
+
+
+###Reduced dimensionality representation -- MDS
+```{r }
+dims = cmdscale(x.dist) #A bit annoying to plot
+limma::plotMDS(x.norm,  col=colors, cex = 0.8, labels = samples)
+```
+
+
