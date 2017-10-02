@@ -38,7 +38,7 @@
 
 # Part 6 - Pick another "technology" (from those above, from [1] or another technology) to briefly describe
 
-## In-class exercise 3 (in groups): 
+## In-class exercise 3 (in groups of 2-3): 
 ### Goal: 
 #### write ~2 sentences about what the method does
 #### again, make the link (technology -> application -> statistics)
