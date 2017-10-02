@@ -45,6 +45,15 @@
 #### list the github usernames of everyone in your group
 #### submit a pull request to brainstorm_modified.md
 
+Flow cytometry -> Cell developement -> Wanderlust algorithm
+
+Wanderlust is a graph-based trajectory detection algorithm that receives multiparameter single-cell events as input and maps them onto a one-dimensional developmental trajectory. Cells are ordered along a trajectory that represents their most likely placement along a developmental path. [Source](https://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.html)
+
+
+Samuel Gunz & Martin Holub
+
+
+
 [1] [https://liorpachter.wordpress.com/seq/](https://liorpachter.wordpress.com/seq/)
 
 
