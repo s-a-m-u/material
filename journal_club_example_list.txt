@@ -53,6 +53,15 @@ Summarizing and correcting the GC content bias in high-throughput sequencing
 Yuval Benjamini and Terence P. Speed
 http://www.ncbi.nlm.nih.gov/pubmed/22323520
 
+Independent filtering increases detection power for high-throughput experiments
+Bourgon R, Gentleman R, Huber W.
+Proc Natl Acad Sci USA. 2010;107:9546–51.
+http://www.pnas.org/content/107/21/9546.long
+
+
+Diaz AA, Qin H, Ramalho-Santos M, Song JS. HiTSelect: a comprehensive tool for high-complexity-pooled screen analysis. Nucleic Acids Res. 2015;43:e16.
+https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku1197
+
 
 Group 2: some recent papers (2017)
 ----------------------------------
@@ -81,3 +90,21 @@ https://doi.org/10.1101/190199
 GSimp: A Gibbs sampler based left-censored missing value imputation approach for metabolomics studies
 Runmin Wei, Jingye Wang, Erik Jia, Tianlu Chen, Yan Ni, Wei Jia
 https://doi.org/10.1101/177410
+
+
+Group 3: discussion on practices in use
+--------------------------------------------
+
+
+Claridge-Chang A, Assam PN. Estimation statistics should replace significance testing. Nat Methods. 2016;13:108–9.
+https://www.nature.com/nmeth/journal/v13/n2/full/nmeth.3729.html
+
+Maciejewski H. Gene set analysis methods: statistical models and methodological differences. Brief Bioinformatics. 2014;15:504–18.
+https://academic.oup.com/bib/article-lookup/doi/10.1093/bib/bbt002
+
+Wagner GP, Kin K, Lynch VJ. Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples. Theory Biosci. 2012;131:281–5.
+https://link.springer.com/article/10.1007%2Fs12064-012-0162-3
+
+Hansen KD, Wu Z, Irizarry RA, Leek JT. Sequencing technology does not eliminate biological variability. Nat Biotechnol. 2011;29:572–3.
+https://www.nature.com/nbt/journal/v29/n7/full/nbt.1910.html
+
