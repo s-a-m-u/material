@@ -51,7 +51,7 @@ Quantitative reverse transcription PCR (RT-qPCR) is used when the starting mater
 
 ## link (technology -> application -> statistics)
 RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  gene regulation  >- Median normalization[Reference paper](http://www.sciencedirect.com/science/article/pii/S1046202310000472)
-RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  data quality control  >- simple linear regression model[Reference line](http://qrt-pcr-applications.com)
+RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  data quality control  >- simple linear regression model[Reference link](http://qrt-pcr-applications.com)
         
 
 
