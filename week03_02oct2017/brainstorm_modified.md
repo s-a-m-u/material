@@ -47,5 +47,41 @@
 
 [1] [https://liorpachter.wordpress.com/seq/](https://liorpachter.wordpress.com/seq/)
 
+# CirSeq
 
+## Link
+
+CirSeq -> Virus mutation frequency analysis -> Standard error of binomial distribution
+
+## Method Summary
+
+Circle sequencing (CirSeq) is a method used to reduce errors of next generation sequencing by circularizing RNA and reverse transcribing it to cDNA. While sequencing errors will not be shared between repeats, the mutations of the viral RNA should be present in all of them. This results in a framework to remove PCR and reverse transcription errors (by majority vote) and is used to calculate much more accurate viral mutation frequency.
+
+#### Statistical analysis
+
+From [1] :
+
+Measurement accuracy of individual mutation frequencies at each position of the genome is affected by:
+
+* depth of coverage at the position
+* its true mutation frequency.
+
+The error can be approximated by standard error of binomial distribution
+
+$SE = \sqrt{\frac{p(1-p)}{n}}$ ,
+
+|                       Where                     
+|-----|:------------------------------------------ 
+|  n  | coverage depth                            
+|  p  | mutation frequency measured by sequencing 
+
+
+##### **References**
+
+[1] Acevedo A, Brodsky L, Andino R. Mutational and fitness landscapes of an RNA virus revealed through population sequencing. Nature. 2014 Jan 30;505(7485):686.   
+[2] Posada-Cespedes S, Seifert D, Beerenwinkel N. Recent advances in inferring viral diversity from high-throughput sequencing data. Virus research. 2016 Sep 28.   
+[3] Simple introduction: http://www.virology.ws/tag/cirseq/   
+
+
+By Ugne Jankauskaite (jugne on github).
 
