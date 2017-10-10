@@ -50,9 +50,10 @@
 Quantitative reverse transcription PCR (RT-qPCR) is used when the starting material is RNA. In this method, RNA is first transcribed into complementary DNA (cDNA) by reverse transcriptase from total RNA or messenger RNA (mRNA). The cDNA is then used as the template for the qPCR reaction. RT-qPCR is used in a variety of applications including gene expression analysis, RNAi validation, microarray validation, pathogen detection, genetic testing, and disease research.[from ThermoFisher](https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/basic-principles-rt-qpcr.html)
 
 ## link (technology -> application -> statistics)
-RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  gene regulation  >- Median normalization 
+RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  gene regulation  >- Median normalization[Reference paper](http://www.sciencedirect.com/science/article/pii/S1046202310000472)
+RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  data quality control  >- simple linear regression model[Reference line](http://qrt-pcr-applications.com)
+        
 
-[Reference paper](http://www.sciencedirect.com/science/article/pii/S1046202310000472)
 
 ## github usernames
    TaoDFang
