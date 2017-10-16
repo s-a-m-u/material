@@ -29,7 +29,7 @@ Monday 11.00-11.45 (Y11-J-05)
 | 16.10.2017  | Mark  | limma 1   | | |
 | 23.10.2017  | Mark  | limma 2  | | |
 | 30.10.2017  | Hubert  | RNA-seq quantification   |  | |
-| 06.11.2017  | Mark  | edgeR+friends 1 |  | |
+| 06.11.2017  | Mark  | edgeR+friends 1 |  | Why Most Published Research Findings Are False(http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) Is most published research really false?(https://www.biorxiv.org/content/early/2016/04/27/050575) PM & SS  |
 | 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X | X |
 | 20.11.2017  | Mark  | edgeR+friends 2  |  |  |
 | 27.11.2017  | Hubert  | classification  |  |  |
