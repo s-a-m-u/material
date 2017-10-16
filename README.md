@@ -32,7 +32,7 @@ Monday 11.00-11.45 (Y11-J-05)
 | 06.11.2017  | Mark  | edgeR+friends 1 |  | |
 | 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X | X |
 | 20.11.2017  | Mark  | edgeR+friends 2  |  |  |
-| 27.11.2017  | Hubert  | classification  | CS, Guidance for RNA-seq co-expression network construction and analysis: safety in numbers, https://www.ncbi.nlm.nih.gov/pubmed/25717192 |  |
+| 27.11.2017  | Hubert  | classification  |  | CS, Guidance for RNA-seq co-expression network construction and analysis: safety in numbers, https://www.ncbi.nlm.nih.gov/pubmed/25717192 |
 | 04.12.2017  | Mark  | single-cell  |  |  |
 | 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  | X | X |
 | 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  |  |  |
