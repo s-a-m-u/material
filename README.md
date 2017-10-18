@@ -35,7 +35,7 @@ Monday 11.00-11.45 (Y11-J-05)
 | 27.11.2017  | Hubert  | classification  |  |  |
 | 04.12.2017  | Mark  | single-cell  |  |  |
 | 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  | X | X |
-| 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  |  |  |
+| 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  | "Linear models enable powerful differential activity analysis in massively parallel reporter assays" dandanpeng & LeaveLeaves|  |
 
 
 ## Useful Links
