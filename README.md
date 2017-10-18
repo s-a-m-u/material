@@ -31,8 +31,8 @@ Monday 11.00-11.45 (Y11-J-05)
 | 30.10.2017  | Hubert  | RNA-seq quantification   |  | |
 | 06.11.2017  | Mark  | edgeR+friends 1 | | |
 | 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X | X |
-| 20.11.2017  | Mark  | edgeR+friends 2 |  |  Gene-level differential analysis at transcript-level resolution https://doi.org/10.1101/190199 CL |
-| 27.11.2017  | Hubert  | classification  |  |  |
+| 20.11.2017  | Mark  | edgeR+friends 2 |  | |
+| 27.11.2017  | Hubert  | classification  | Gene-level differential analysis at transcript-level resolution https://doi.org/10.1101/190199 CL |  |
 | 04.12.2017  | Mark  | single-cell  |  |  |
 | 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  | X | X |
 | 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  |  |  |
