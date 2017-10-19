@@ -29,13 +29,13 @@ Monday 11.00-11.45 (Y11-J-05)
 | 16.10.2017  | Mark  | limma 1   | | | 
 | 23.10.2017  | Mark  | limma 2  | | | 
 | 30.10.2017  | Hubert  | RNA-seq quantification   |  | | 
-| 06.11.2017  | Mark  | edgeR+friends 1 | Why Most Published Research Findings Are False(http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) Is most published research really false?(https://www.biorxiv.org/content/early/2016/04/27/050575) PM & SS  | | 
+| 06.11.2017  | Mark  | edgeR+friends 1 | [Why Most Published Research Findings Are False](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124); [Is most published research really false?](https://www.biorxiv.org/content/early/2016/04/27/050575) (PM, SS) | | 
 | 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X | X | 
-| 20.11.2017  | Mark  | edgeR+friends 2  | title:High Dimensional Classification with combined Adaptive Sparse PLS and Logistic Regression-[link](https://www.ncbi.nlm.nih.gov/pubmed/28968879)-by TF and YY | BSmooth: from whole genome bisulfite sequencing reads to differentially methylated regions  https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-10-r83 - SO | 
-| 27.11.2017  | Hubert  | classification  | Ugne Jankauskaite, http://www.nature.com/nmeth/journal/v11/n7/abs/nmeth.2967.html | CS, Guidance for RNA-seq co-expression network construction and analysis: safety in numbers, https://www.ncbi.nlm.nih.gov/pubmed/25717192 | 
-| 04.12.2017  | Mark  | single-cell  | MH -[paper](https://academic.oup.com/bioinformatics/article/33/16/2539/3611270/Removal-of-batch-effects-using-distribution#94806017)  |  | 
+| 20.11.2017  | Mark  | edgeR+friends 2  | [High Dimensional Classification with combined Adaptive Sparse PLS and Logistic Regression-link](https://www.ncbi.nlm.nih.gov/pubmed/28968879) (TF, YY) | [BSmooth: from whole genome bisulfite sequencing reads to differentially methylated regions](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-10-r83) (SO) | 
+| 27.11.2017  | Hubert  | classification  | [Bayesian approach to single-cell differential expression analysis](http://www.nature.com/nmeth/journal/v11/n7/abs/nmeth.2967.html) (UJ) | [Guidance for RNA-seq co-expression network construction and analysis: safety in numbers](https://www.ncbi.nlm.nih.gov/pubmed/25717192) (CS) | 
+| 04.12.2017  | Mark  | single-cell  | [Removal of batch effects using distribution-matching residual networks](https://academic.oup.com/bioinformatics/article/33/16/2539/3611270/Removal-of-batch-effects-using-distribution) (MH)  |  | 
 | 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  | X | X | 
-| 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  | "Linear models enable powerful differential activity analysis in massively parallel reporter assays" dandanpeng & LeaveLeaves  |  | 
+| 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  | [Linear models enable powerful differential activity analysis in massively parallel reporter assays](https://www.biorxiv.org/content/early/2017/09/30/196394) (DP, ZY)  |  | 
 
 
 ## Useful Links
