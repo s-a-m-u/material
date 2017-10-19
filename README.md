@@ -32,7 +32,7 @@ Monday 11.00-11.45 (Y11-J-05)
 | 06.11.2017  | Mark  | edgeR+friends 1 | Why Most Published Research Findings Are False(http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124) Is most published research really false?(https://www.biorxiv.org/content/early/2016/04/27/050575) PM & SS  | | 
 | 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X | X | 
 | 20.11.2017  | Mark  | edgeR+friends 2  | title:High Dimensional Classification with combined Adaptive Sparse PLS and Logistic Regression-[link](https://www.ncbi.nlm.nih.gov/pubmed/28968879)-by TF and YY |  | 
-| 27.11.2017  | Hubert  | classification  | Ugne Jankauskaite, http://www.nature.com/nmeth/journal/v11/n7/abs/nmeth.2967.html |  | 
+| 27.11.2017  | Hubert  | classification  | Ugne Jankauskaite, http://www.nature.com/nmeth/journal/v11/n7/abs/nmeth.2967.html | CS, Guidance for RNA-seq co-expression network construction and analysis: safety in numbers, https://www.ncbi.nlm.nih.gov/pubmed/25717192 | 
 | 04.12.2017  | Mark  | single-cell  | MH -[paper](https://academic.oup.com/bioinformatics/article/33/16/2539/3611270/Removal-of-batch-effects-using-distribution#94806017)  |  | 
 | 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  | X | X | 
 | 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  |  |  | 
