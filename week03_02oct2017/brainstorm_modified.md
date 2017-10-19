@@ -62,7 +62,7 @@ Data processing: http://www.cs.cmu.edu/~zivbj/class05/reading/norm.pdf
 #### By: cstatzer, sorjuela
 
 
-
+---
 
 
 ### Flow cytometry -> Cell developement -> Wanderlust algorithm
@@ -74,6 +74,7 @@ Wanderlust is a graph-based trajectory detection algorithm that receives multipa
 #### By: s-a-m-u, martinholub
 
 
+---
 
 ### BS-seq: bisulphite + sequencing -> DNA methylation -> Beta-binomial distribution 
 
@@ -88,6 +89,8 @@ Bisulfite sequencing uses bisulfite treatment of DNA to determine its pattern of
 [Differential methylation analysis for BS-seq data under general experimental design](https://academic.oup.com/bioinformatics/article/32/10/1446/1743267)
 
 #### By: churchillcui
+
+---
 
 
 ### Technology (TAm Seq - Tagged-amplicon deep sequencing )
@@ -146,6 +149,7 @@ Reference standards and plasma DNA controls are also used to demonstrate the sen
 #### By: dhivyaCS
 
 
+---
 
 ### Hi-C
 
@@ -163,7 +167,7 @@ Overview of Hi-C: cells are crosslinked with formaldehyde; DNA is digested with 
 
 
 
-
+---
 
 
 ### Ribosome Profiling
@@ -181,7 +185,7 @@ Ribo seq -> Identifying translated mRNA -> normally distributed
 
 
 
-
+---
 
 
 
@@ -199,7 +203,7 @@ Next-generation-sequencing data has been utilized in many different researches, 
 #### By: LeaveLeaves
 
 
-
+---
 
 
 
@@ -218,7 +222,7 @@ RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  data qu
 
 
 
-
+---
 
 ### CirSeq
 
@@ -257,3 +261,28 @@ $SE = \sqrt{\frac{p(1-p)}{n}}$ ,
 
 #### By: jugne
 
+
+
+
+---
+
+
+# Bar-seq
+
+### Summary 
+
+Bar-seq is a method to determine the abundance of genetic barcodes in
+a mixture. The technique can be used for functional profiling,
+e.g. mutant fitness profiling. T-tests provide a statistical
+argument, for when the abundance of a species changed significantly
+under experimental conditions.
+
+### Sources
+
+[Quantitative phenotyping via deep barcode sequencing](https://dx.doi.org/10.1101/gr.093955.109)  
+[Barcode analysis by sequencing (Bar-seq). The Dictionary of Genomics, Transcriptomics and Proteomics.](http://dx.doi.org/10.1002/9783527678679.dg00915)  
+[Design and Analysis of Bar-seq Experiments](https://dx.doi.org/10.1534%2Fg3.113.008565)
+
+
+
+---
