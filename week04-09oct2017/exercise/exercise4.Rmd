@@ -1,7 +1,7 @@
 ---
 title: "Exercise 4"
-author: "Tao Fang"
-date: "14 10 2017"
+author: "Hubert Rehrauer"
+date: "8 10 2017"
 output: html_document
 ---
 
@@ -19,36 +19,9 @@ Check the online available manuals for the mappers
 
 and answer the questions  
 * How do these mappers score alignments?  
-* What reporting options are available? 
+* What reporting options are available?  
 
-### bowtie2
-#### score strategies
-A score is calculated by subtracting penalties for each difference (mismatch, gap, etc.) and, in local alignment mode, adding bonuses for each match.
-The scores can be configured with the --ma (match bonus), --mp (mismatch penalty), --np (penalty for having an N in either the read or the reference), --rdg (affine read gap penalty) and --rfg (affine reference gap penalty) options.
-### reporting options
-*Default mode: search for multiple alignments, report the best one
-*-k mode: search for one or more alignments, report each
-*-a mode: search for and report all alignments
-[reference](http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml)
 
-### tophat2
-#### score strategies
-Tophat is bulit on bowtie and it use similal score stategies as bowtie
-### reporting options
-*report the alignments with the best alignment score.
-*randomly report only one of many alignments.
-[reference](https://ccb.jhu.edu/software/tophat/manual.shtml)
-
-### STAR
-#### score strategies
-The stitching is guided by a local alignment scoring scheme, with user-defined scores (penalties) for matches, mismatches, insertions, deletions and splice junction gaps, allowing for a quantitative assessment of the alignment qualities and ranks.
-Total score for each alignment is calculated as a sum of match scores, minus sum mismatch scores for mismatched bases, minus the penalties for insertions, deletions and genomic gaps:
-### reporting options
-The stitched combination with the highest score is chosen as the best alignment of a read. For multimapping reads, all alignments with scores within a certain user-defined range below the highest score are reported.
-
-[reference](https://github.com/alexdobin/STAR)
-[paper1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530905/)
-[paper2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3530905/bin/supp_bts635_Dobin.STAR.Supplementary.Response2.pdf)
 ## Mapping with R
 
 Use the Rsubread package to map a read file found at http://fgcz-gstore.uzh.ch/public/Yeast_Reads/
