@@ -163,6 +163,25 @@ Overview of Hi-C: cells are crosslinked with formaldehyde; DNA is digested with 
 
 
 
+
+### Ribosome Profiling
+
+Ribosome profiling, or Ribo-Seq (also named Ribosome footprinting), is an adaptation  to work with next generation sequencing that uses specialized messenger RNA (mRNA) sequencing to determine which mRNAs are being actively translated. It produces a “global snapshot” of all the ribosomes active in a cell at a particular moment, known as a translatome. Consequently, this enables identifying the location of translation start sites, the complement of translated ORFs in a cell or tissue, the distribution of ribosomes on a messenger RNA, and the speed of translating ribosomes.
+
+#### Linking Technologies to Applications to Statistics 
+
+Ribo seq -> Identifying translated mRNA -> normally distributed
+
+#### By: pmeili, stusas
+
+#### References:
+[1: http://science.sciencemag.org/content/324/5924/218](http://science.sciencemag.org/content/324/5924/218)
+
+
+
+
+
+
 ### RT-qPCR
 Quantitative reverse transcription PCR (RT-qPCR) is used when the starting material is RNA. In this method, RNA is first transcribed into complementary DNA (cDNA) by reverse transcriptase from total RNA or messenger RNA (mRNA). The cDNA is then used as the template for the qPCR reaction. RT-qPCR is used in a variety of applications including gene expression analysis, RNAi validation, microarray validation, pathogen detection, genetic testing, and disease research.[from ThermoFisher](https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/basic-principles-rt-qpcr.html)
 
