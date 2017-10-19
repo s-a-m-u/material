@@ -143,3 +143,21 @@ Reference standards and plasma DNA controls are also used to demonstrate the sen
 
 #### By: dhivyaCS
 
+
+
+### Hi-C
+
+This technique is used to analyze the 3-dimensional spatial organization of chromatin. It quantifies the number of interactions between genomic loci that are nearby in 3D space but may be separated by many necleotides in the linear genome. The spatial proximity maps of chromatin confirms the presence of chromosome territories like compartment A/B and topological associated domains(TADs).
+
+#### Link
+
+Hi-C seq: formaldehyde + sequencing -> three-dimensional chromosome architecture -> Bayesian model(Bayesian 3D constructor for Hi-C data), Markow-chain Monte Carlo methods
+
+#### Details
+
+Overview of Hi-C: cells are crosslinked with formaldehyde; DNA is digested with a restriction enzyme that leaves a 5′ overhang; the 5′ overhang is filled, including a biotinylated residue; and the resulting blunt-end fragments are ligated under dilute conditions that favor ligation events between the cross-linked DNA fragments. The resulting DNA sample contains ligation products consisting of fragments that were originally in close spatial proximity in the nucleus, marked with biotin at the junction. A Hi-C library is created by shearing the DNA and selecting the biotin-containing fragments with streptavidin beads. The library is then analyzed by using massively parallel DNA sequencing, producing a catalog of interacting fragments.
+
+Statistical model: The read counts between a pair of loci are inversely proportional to the spatial distance between the two loci and the read counts follow a poisson distribution. The chromosome is modeled as a piecewise linear curve in a 3D space, specified by a spherical dot for each fragment or locus. 
+
+
+#### By: dandanpeng
