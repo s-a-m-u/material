@@ -35,8 +35,7 @@ Monday 11.00-11.45 (Y11-J-05)
 | 27.11.2017  | Hubert  | classification  | Ugne Jankauskaite, http://www.nature.com/nmeth/journal/v11/n7/abs/nmeth.2967.html | CS, Guidance for RNA-seq co-expression network construction and analysis: safety in numbers, https://www.ncbi.nlm.nih.gov/pubmed/25717192 | 
 | 04.12.2017  | Mark  | single-cell  | MH -[paper](https://academic.oup.com/bioinformatics/article/33/16/2539/3611270/Removal-of-batch-effects-using-distribution#94806017)  |  | 
 | 11.12.2017  | Gosia  | hands-on session #2: mass cytometry  | X | X | 
-| 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  |  |  | 
-
+| 18.12.2017  | Mark  | epigenomics, DNA methylation, ChIP data, gene set analysis  | "Linear models enable powerful differential activity analysis in massively parallel reporter assays" dandanpeng & LeaveLeaves  |  | 
 
 
 ## Useful Links
