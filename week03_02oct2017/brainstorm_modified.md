@@ -155,9 +155,19 @@ Hi-C seq: formaldehyde + sequencing -> three-dimensional chromosome architecture
 
 #### Details
 
-Overview of Hi-C: cells are crosslinked with formaldehyde; DNA is digested with a restriction enzyme that leaves a 5′ overhang; the 5′ overhang is filled, including a biotinylated residue; and the resulting blunt-end fragments are ligated under dilute conditions that favor ligation events between the cross-linked DNA fragments. The resulting DNA sample contains ligation products consisting of fragments that were originally in close spatial proximity in the nucleus, marked with biotin at the junction. A Hi-C library is created by shearing the DNA and selecting the biotin-containing fragments with streptavidin beads. The library is then analyzed by using massively parallel DNA sequencing, producing a catalog of interacting fragments.
-
 Statistical model: The read counts between a pair of loci are inversely proportional to the spatial distance between the two loci and the read counts follow a poisson distribution. The chromosome is modeled as a piecewise linear curve in a 3D space, specified by a spherical dot for each fragment or locus. 
-
-
+Overview of Hi-C: cells are crosslinked with formaldehyde; DNA is digested with a restriction enzyme that leaves a 5′ overhang; the 5′ overhang is filled, including a biotinylated residue; and the resulting blunt-end fragments are ligated under dilute conditions that favor ligation events between the cross-linked DNA fragments. The resulting DNA sample contains ligation products consisting of fragments that were originally in close spatial proximity in the nucleus, marked with biotin at the junction. A Hi-C library is created by shearing the DNA and selecting the biotin-containing fragments with streptavidin beads. The library is then analyzed by using massively parallel DNA sequencing, producing a catalog of interacting fragments.
 #### By: dandanpeng
+
+
+
+
+
+### RT-qPCR
+Quantitative reverse transcription PCR (RT-qPCR) is used when the starting material is RNA. In this method, RNA is first transcribed into complementary DNA (cDNA) by reverse transcriptase from total RNA or messenger RNA (mRNA). The cDNA is then used as the template for the qPCR reaction. RT-qPCR is used in a variety of applications including gene expression analysis, RNAi validation, microarray validation, pathogen detection, genetic testing, and disease research.[from ThermoFisher](https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/basic-principles-rt-qpcr.html)
+
+#### link (technology -> application -> statistics)
+RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  gene regulation  >- Median normalization[Reference paper](http://www.sciencedirect.com/science/article/pii/S1046202310000472)
+RT-qPCR: RNA reverse transcription + qPCR reaction(cDNA as template) >-  data quality control  >- simple linear regression model[Reference link](http://qrt-pcr-applications.com)
+
+#### By: TaoDFang, orangelc1221, uraniumyo
