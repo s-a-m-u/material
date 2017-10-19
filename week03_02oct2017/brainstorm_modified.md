@@ -45,16 +45,28 @@
 #### list the github usernames of everyone in your group
 #### submit a pull request to brainstorm_modified.md
 
-Flow cytometry -> Cell developement -> Wanderlust algorithm
+
+
+### Flow cytometry -> Cell developement -> Wanderlust algorithm
+
+#### Summary
 
 Wanderlust is a graph-based trajectory detection algorithm that receives multiparameter single-cell events as input and maps them onto a one-dimensional developmental trajectory. Cells are ordered along a trajectory that represents their most likely placement along a developmental path. [Source](https://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.html)
 
-
-Samuel Gunz & Martin Holub
-
-
-
-[1] [https://liorpachter.wordpress.com/seq/](https://liorpachter.wordpress.com/seq/)
+#### By: s-a-m-u, martinholub
 
 
 
+### BS-seq: bisulphite + sequencing -> DNA methylation -> Beta-binomial distribution 
+
+#### Summary
+
+Bisulfite sequencing uses bisulfite treatment of DNA to determine its pattern of methylation. The methylated read counts are often modeled by a beta-binomial distribution, which accounts for both the biological and sampling variations. 
+
+#### Source:
+
+[Using beta-binomial regression for high-precision differential methylation analysis in multifactor whole-genome bisulfite sequencing experiments.](https://www.ncbi.nlm.nih.gov/pubmed/24962134)
+
+[Differential methylation analysis for BS-seq data under general experimental design](https://academic.oup.com/bioinformatics/article/32/10/1446/1743267)
+
+#### By: churchillcui
