@@ -28,7 +28,7 @@ Monday 11.00-11.45 (Y11-J-05)
 | 09.10.2017  | Hubert  | mapping  | |
 | 16.10.2017  | Mark  | limma 1   | |
 | 23.10.2017  | Mark  | limma 2  | |
-| 30.10.2017  | Hubert  | RNA-seq quantification   |  |
+| 30.10.2017  | Hubert  | RNA-seq quantification   |  | [Assessment of batch-correction methods for scRNA-seq data with a new test metric.](!https://www.biorxiv.org/content/early/2017/10/09/200345) EC
 | 06.11.2017  | Mark  | edgeR+friends 1 |  |
 | 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X |
 | 20.11.2017  | Mark  | edgeR+friends 2  |  |
