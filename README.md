@@ -28,7 +28,8 @@ Monday 11.00-11.45 (Y11-J-05)
 | 09.10.2017  | Hubert  | mapping  | | | 
 | 16.10.2017  | Mark  | limma 1   | | | 
 | 23.10.2017  | Mark  | limma 2  | | | 
-| 30.10.2017  | Hubert  | RNA-seq quantification   | [Assessment of batch-correction methods for scRNA-seq data with a new test metric](https://www.biorxiv.org/content/early/2017/10/09/200345) (EC) | | 
+| 30.10.2017  | Hubert  | RNA-seq quantification   | [Assessment of batch-correction methods for scRNA-seq data with a new test metric](https://www.biorxiv.org/content/early/2017/10/09/200345) (EC) |[Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing](dx.doi.org/10.1073/pnas.1522203113)
+(SS) | 
 | 06.11.2017  | Mark  | edgeR+friends 1 | [Why Most Published Research Findings Are False](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124); [Is most published research really false?](https://www.biorxiv.org/content/early/2016/04/27/050575) (PM, SS) | [Gene-level differential analysis at transcript-level resolution](https://doi.org/10.1101/190199) (CL) | 
 | 13.11.2017  | Charlotte  | hands-on session #1: RNA-seq  | X | X | 
 | 20.11.2017  | Mark  | edgeR+friends 2  | [High Dimensional Classification with combined Adaptive Sparse PLS and Logistic Regression-link](https://www.ncbi.nlm.nih.gov/pubmed/28968879) (TF, YY) | [BSmooth: from whole genome bisulfite sequencing reads to differentially methylated regions](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2012-13-10-r83) (SO) | 
