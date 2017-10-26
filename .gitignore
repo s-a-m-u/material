@@ -3,3 +3,8 @@ tmp/*
 *.jpg
 .DS_Store
 .Rhistory
+.Rproj.user
+.Rhistory
+.Ruserdata
+.ppt
+.pptx
